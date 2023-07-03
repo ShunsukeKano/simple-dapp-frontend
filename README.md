@@ -1,2 +1,3 @@
-# simple-dapp-frontend
- 
+# Simple dApp Frontend
+
+This dApp entails the creation, compilation, deployment, and interaction with a smart contract utilizing JavaScript, focusing on the usage of the INFURA provider and the web3.js library. The smart contract to be developed needs to have a minimum of two state-changing functions, a read-only or pure function, a private function that is invoked by a public or external function, and an event emitted from one of the writable functions. All compiler artifacts like ABI and bytecode should be obtained from Remix IDE. You're required to initialize a directory using npm, install the web3 js library, and create three NodeJS scripts for deploying the contract, interacting with its functions, and listening to its emitted events.
